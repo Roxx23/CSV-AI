@@ -204,7 +204,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 **Ayush Bora** - [thisisayu0912@gmail.com](mailto:thisisayu0912@gmail.com)
 
-Project Link: [https://github.com/yourusername/CSVChatter](https://github.com/Roxx23/CSVChatter)
+Project Link: [https://github.com/Roxx23/CSVChatter](https://github.com/Roxx23/CSVChatter)
 
 ---
 
